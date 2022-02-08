@@ -19,3 +19,4 @@ Tools used:
 Languages used:
 - JavaScript 
 - CSS
+- HTML
